@@ -13,5 +13,6 @@ spec:
   resources:
     requests:
       storage: 10Mi
-  storageClassName: gp2
+  storageClassName: sc1
   volumeMode: Filesystem
+
