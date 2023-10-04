@@ -1,6 +1,6 @@
-FROM quay.io/eclipse/che-java8-maven:nightly
+FROM quay.io/eclipse/che-java8-maven:7.37.2
 
-MAINTAINER tech-tejendra
+MAINTAINER ppitcore
 
 USER root
 
